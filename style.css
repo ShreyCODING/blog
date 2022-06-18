@@ -1,0 +1,9 @@
+body{
+    text-align:center;
+    background-color: lightslategrey;
+}
+#img1{
+    border-style: solid;
+    border-color: black;
+    width: 600px;
+}
